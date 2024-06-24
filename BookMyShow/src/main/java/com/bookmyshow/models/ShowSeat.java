@@ -17,4 +17,5 @@ public class ShowSeat extends BaseModel {
 	private Seat seat;
 	@Enumerated(EnumType.ORDINAL)
 	private ShowSeatStatus showSeatStatus;
+	
 }
